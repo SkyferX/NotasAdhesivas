@@ -1,0 +1,50 @@
+.note-normal {
+    background-image: url(./images/StickyNote.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 250px;
+    padding: 50px;
+}
+
+.note-important {
+    background-image: url(./images/StickyNoteImportant.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 250px;
+    padding: 50px;
+}
+
+#main {
+    background-image: url(./images/fondo.png);
+}
+
+.title {
+    font-family: Georgia, serif;
+    margin-bottom: 3px;
+    font-size: 30px;
+}
+
+.desc {
+    font-family: Georgia, serif;
+    font-size: 20;
+}
+
+
+#title {
+    margin: 10px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#desc {
+    margin: 10px;
+    width: 100%;
+}
+
+#boton {
+    margin: 10px;
+}
+
